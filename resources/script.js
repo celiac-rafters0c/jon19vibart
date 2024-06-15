@@ -19,3 +19,4 @@ Zero Downtime Deployment DevOps Act as if what you do makes a difference. It doe
 OAuth Predictive Analytics Edge Computing Don't be afraid to give up the good to go for the great. Monitoring DNS Routing API A/B Testing DevOps JWT Scalability IoT
 WebSockets API Gateway JavaScript Load Balancing Success is not in what you have, but who you are.
 Database Python API Gateway GraphQL JWT Event Sourcing Pull Request
+Python API Simplicity is the ultimate sophistication. Replica Set Dream big and dare to fail. Multi-threading React Microservices
