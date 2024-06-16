@@ -21,3 +21,4 @@ Serverless A/B Testing Success usually comes to those who are too busy to be loo
 JWT Load Balancing If you can dream it, you can do it. Pull Request IoT Edge Computing
 Monitoring The only way to do great work is to love what you do. Database Scalability Multi-threading Edge Computing Firewalls Difficult roads often lead to beautiful destinations. Replica Set
 Success is not in what you have, but who you are. Firewalls CI/CD Virtual Machines Lambda Functions Data Pipeline Parallel Processing Cloud NLP Event-driven Architecture Algorithm Zero Downtime Deployment Cloud Functions DevOps
+Edge Computing WebSockets Microservices Stay hungry, stay foolish. JWT Automation A/B Testing JavaScript Cloud
