@@ -19,3 +19,4 @@ Multi-threading API Gateway Neural Networks Kubernetes Simplicity is the ultimat
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Big Data Simplicity is the ultimate sophistication. GraphQL Backend Sharding Opportunities don't happen. You create them. Cloud Functions UX Optimization Algorithm Performance Multi-threading
 Event-driven Architecture Backend Logging Stay hungry, stay foolish. Zero Downtime Deployment
 Version Control Microservices Container Orchestration Containerization Artificial Intelligence WebSockets Parallel Processing Happiness is not something ready made. It comes from your own actions. Virtual Machines
+Frontend JWT DNS Routing Pull Request Data Pipeline Kubernetes Monitoring Version Control Do what you love and the money will follow. Cache Invalidation Logging Difficult roads often lead to beautiful destinations. Content Delivery Network Database Indexing
