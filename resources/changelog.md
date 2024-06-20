@@ -20,3 +20,4 @@ Automation Great things never come from comfort zones. Kafka Simplicity is the u
 Serverless A/B Testing Success usually comes to those who are too busy to be looking for it. Lambda Functions Multi-threading Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. API Gateway
 JWT Load Balancing If you can dream it, you can do it. Pull Request IoT Edge Computing
 Monitoring The only way to do great work is to love what you do. Database Scalability Multi-threading Edge Computing Firewalls Difficult roads often lead to beautiful destinations. Replica Set
+Success is not in what you have, but who you are. Firewalls CI/CD Virtual Machines Lambda Functions Data Pipeline Parallel Processing Cloud NLP Event-driven Architecture Algorithm Zero Downtime Deployment Cloud Functions DevOps
