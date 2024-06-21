@@ -21,3 +21,4 @@ Success doesn’t just find you. You have to go out and get it. Great things never
 Data Science Cache Invalidation Message Queue If you can dream it, you can do it. Framework Blockchain Event Sourcing NLP Security Innovation distinguishes between a leader and a follower. Virtual Machines Backend Version Control Zero Downtime Deployment Frontend
 Security Code Review Optimization Predictive Analytics Do what you love and the money will follow. Frontend Happiness is not something ready made. It comes from your own actions. Database Indexing
 Success doesn’t just find you. You have to go out and get it. Deployment JWT Act as if what you do makes a difference. It does. Lambda Functions DevOps Docker Kubernetes
+Data Science JavaScript Work hard in silence, let your success be your noise. Load Testing Framework DevOps Big Data Success usually comes to those who are too busy to be looking for it.
