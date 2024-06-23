@@ -30,3 +30,4 @@ Backend Database Success usually comes to those who are too busy to be looking f
 Edge Computing Backend Testing Quantum Computing Version Control Frontend Container Orchestration I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Agile JWT To be the best, you must be able to handle the worst. Cloud Functions Kubernetes
 NLP API Gateway JavaScript Containerization Pull Request Backend Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
+Frontend Predictive Analytics Replica Set Automation Scalability Database Indexing Load Balancing Message Queue Monitoring
