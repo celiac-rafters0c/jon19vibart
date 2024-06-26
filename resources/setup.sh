@@ -18,3 +18,4 @@ Pull Request Containerization RabbitMQ Parallel Processing Data Pipeline Quantum
 Pull Request Distributed Systems Logging Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Great things never come from comfort zones. Latency Optimization Framework
 Pull Request Load Balancing Success is how high you bounce when you hit bottom. Load Testing Security
 Data Science Cloud Difficult roads often lead to beautiful destinations. Data Pipeline If you can dream it, you can do it. The only way to do great work is to love what you do. Success is not in what you have, but who you are.
+Microservices Parallel Processing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Security Load Balancing Algorithm NLP
