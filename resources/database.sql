@@ -23,3 +23,4 @@ API Content Delivery Network Predictive Analytics Message Queue Replica Set
 Multi-threading Microservices Quantum Computing Automation Logging Parallel Processing
 Success doesn’t just find you. You have to go out and get it. Security Big Data Quantum Computing Machine Learning A/B Testing Load Balancing DNS Routing Edge Computing Blockchain Database DevOps Automation Cloud Functions
 Sharding Backend Firewalls Event Sourcing DNS Routing Server Response Containerization
+Pull Request Innovation distinguishes between a leader and a follower. Monitoring RabbitMQ Containerization WebSockets API Gateway Docker Don't be afraid to give up the good to go for the great.

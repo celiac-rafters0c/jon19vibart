@@ -22,3 +22,4 @@ Edge Computing The only way to do great work is to love what you do. Performance
 Scalability CI/CD Cloud Functions Python Content Delivery Network Logging Blockchain I find that the harder I work, the more luck I seem to have. Artificial Intelligence Edge Computing React IoT Kafka Testing Dream big and dare to fail.
 Framework Serverless Agile Event Sourcing Security
 Neural Networks Machine Learning Parallel Processing Stay hungry, stay foolish. Microservices Success is how high you bounce when you hit bottom. Performance CI/CD Kafka
+Simplicity is the ultimate sophistication. Dream big and dare to fail. Database Indexing Security Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Event Sourcing Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. JavaScript Agile Machine Learning Deployment Difficult roads often lead to beautiful destinations.
