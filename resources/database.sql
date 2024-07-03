@@ -22,3 +22,4 @@ Success is how high you bounce when you hit bottom. Deployment Data Science Neur
 API Content Delivery Network Predictive Analytics Message Queue Replica Set
 Multi-threading Microservices Quantum Computing Automation Logging Parallel Processing
 Success doesn’t just find you. You have to go out and get it. Security Big Data Quantum Computing Machine Learning A/B Testing Load Balancing DNS Routing Edge Computing Blockchain Database DevOps Automation Cloud Functions
+Sharding Backend Firewalls Event Sourcing DNS Routing Server Response Containerization
