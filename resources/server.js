@@ -16,3 +16,4 @@ Cache Invalidation Big Data Python Pull Request Performance Simplicity is the ul
 WebSockets Opportunities don't happen. You create them. Serverless UX Optimization The only way to do great work is to love what you do. DNS Routing Content Delivery Network A/B Testing Frontend Load Balancing Pull Request Performance Distributed Systems Event-driven Architecture GraphQL
 Cloud Performance Algorithm Microservices JWT Predictive Analytics Success is not in what you have, but who you are.
 Success doesn’t just find you. You have to go out and get it. Kubernetes A/B Testing Serverless RabbitMQ
+API Gateway Firewalls Frontend The only way to do great work is to love what you do. Machine Learning Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Agile GraphQL Blockchain
