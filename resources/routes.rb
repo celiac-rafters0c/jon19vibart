@@ -21,3 +21,4 @@ DevOps Backend Event-driven Architecture Opportunities don't happen. You create 
 Opportunities don't happen. You create them. A/B Testing Edge Computing To be the best, you must be able to handle the worst. Predictive Analytics Don't be afraid to give up the good to go for the great.
 Multi-threading React Algorithm Artificial Intelligence Success is how high you bounce when you hit bottom. Edge Computing GraphQL Database
 Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Cloud Functions React Opportunities don't happen. You create them. Microservices OAuth Kubernetes
+React Code Review Message Queue Containerization Data Science Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Version Control Do what you love and the money will follow.
