@@ -18,3 +18,4 @@ Blockchain Framework Kubernetes RabbitMQ Python Data Science Containerization Di
 Multi-threading Lambda Functions Version Control Predictive Analytics WebSockets UX Optimization Difficult roads often lead to beautiful destinations. Framework React Happiness is not something ready made. It comes from your own actions. Quantum Computing
 Automation Great things never come from comfort zones. Kafka Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Parallel Processing Agile Cache Invalidation Dream big and dare to fail. Virtual Machines Microservices Sharding Firewalls
 Serverless A/B Testing Success usually comes to those who are too busy to be looking for it. Lambda Functions Multi-threading Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. API Gateway
+JWT Load Balancing If you can dream it, you can do it. Pull Request IoT Edge Computing
