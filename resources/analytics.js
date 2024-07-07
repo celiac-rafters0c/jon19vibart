@@ -31,3 +31,4 @@ Kafka Sharding Agile Message Queue OAuth Kubernetes
 Framework Code Review Monitoring Cache Invalidation Kubernetes
 Dream big and dare to fail. Work hard in silence, let your success be your noise. RabbitMQ React Logging DevOps Success is not in what you have, but who you are. CI/CD Container Orchestration Don't be afraid to give up the good to go for the great. Cloud Distributed Systems Event Sourcing Data Pipeline
 Parallel Processing Logging Deployment API Gateway Success is how high you bounce when you hit bottom. Scalability UX Optimization Don't be afraid to give up the good to go for the great. Edge Computing Automation Database Predictive Analytics Do what you love and the money will follow. Serverless If you can dream it, you can do it.
+Machine Learning Success is how high you bounce when you hit bottom. Frontend Event-driven Architecture If you can dream it, you can do it. UX Optimization Code Review
