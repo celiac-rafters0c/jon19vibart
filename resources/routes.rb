@@ -20,3 +20,4 @@ Opportunities don't happen. You create them. Content Delivery Network Big Data S
 DevOps Backend Event-driven Architecture Opportunities don't happen. You create them. Great things never come from comfort zones.
 Opportunities don't happen. You create them. A/B Testing Edge Computing To be the best, you must be able to handle the worst. Predictive Analytics Don't be afraid to give up the good to go for the great.
 Multi-threading React Algorithm Artificial Intelligence Success is how high you bounce when you hit bottom. Edge Computing GraphQL Database
+Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Cloud Functions React Opportunities don't happen. You create them. Microservices OAuth Kubernetes
