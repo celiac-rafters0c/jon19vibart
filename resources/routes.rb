@@ -19,3 +19,4 @@ A/B Testing Artificial Intelligence Agile IoT If you can dream it, you can do it
 Opportunities don't happen. You create them. Content Delivery Network Big Data Scalability Deployment Docker Frontend Great things never come from comfort zones. Automation Latency Optimization
 DevOps Backend Event-driven Architecture Opportunities don't happen. You create them. Great things never come from comfort zones.
 Opportunities don't happen. You create them. A/B Testing Edge Computing To be the best, you must be able to handle the worst. Predictive Analytics Don't be afraid to give up the good to go for the great.
+Multi-threading React Algorithm Artificial Intelligence Success is how high you bounce when you hit bottom. Edge Computing GraphQL Database
