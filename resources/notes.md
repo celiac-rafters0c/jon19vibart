@@ -21,3 +21,4 @@ Event-driven Architecture Performance Data Science Big Data Parallel Processing 
 Edge Computing The only way to do great work is to love what you do. Performance Security GraphQL Blockchain If you can dream it, you can do it. IoT API Gateway Happiness is not something ready made. It comes from your own actions. Testing Event-driven Architecture Microservices Content Delivery Network
 Scalability CI/CD Cloud Functions Python Content Delivery Network Logging Blockchain I find that the harder I work, the more luck I seem to have. Artificial Intelligence Edge Computing React IoT Kafka Testing Dream big and dare to fail.
 Framework Serverless Agile Event Sourcing Security
+Neural Networks Machine Learning Parallel Processing Stay hungry, stay foolish. Microservices Success is how high you bounce when you hit bottom. Performance CI/CD Kafka

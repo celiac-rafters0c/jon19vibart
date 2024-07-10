@@ -17,3 +17,4 @@ Python Big Data Kafka Database Framework Zero Downtime Deployment Virtual Machin
 Version Control Server Response UX Optimization Monitoring Framework Algorithm CI/CD Database Event-driven Architecture Message Queue Success is how high you bounce when you hit bottom. Neural Networks Edge Computing Kafka JWT
 Zero Downtime Deployment DevOps Act as if what you do makes a difference. It does. Deployment Server Response Firewalls Blockchain UX Optimization WebSockets Algorithm Opportunities don't happen. You create them. Security
 OAuth Predictive Analytics Edge Computing Don't be afraid to give up the good to go for the great. Monitoring DNS Routing API A/B Testing DevOps JWT Scalability IoT
+WebSockets API Gateway JavaScript Load Balancing Success is not in what you have, but who you are.
