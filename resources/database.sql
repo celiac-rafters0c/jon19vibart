@@ -19,3 +19,4 @@ Event-driven Architecture Edge Computing Serverless Code Review The only way to 
 Cloud Neural Networks NLP Testing Virtual Machines DevOps
 Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Sharding Container Orchestration Optimization
 Success is how high you bounce when you hit bottom. Deployment Data Science Neural Networks RabbitMQ Opportunities don't happen. You create them. Security Automation Code Review Frontend Docker Kubernetes Framework Artificial Intelligence DNS Routing
+API Content Delivery Network Predictive Analytics Message Queue Replica Set
