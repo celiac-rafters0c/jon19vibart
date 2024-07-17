@@ -18,3 +18,4 @@ Microservices Success usually comes to those who are too busy to be looking for 
 Event-driven Architecture Edge Computing Serverless Code Review The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Replica Set Database Load Testing Message Queue Content Delivery Network Do what you love and the money will follow. Kafka WebSockets Optimization
 Cloud Neural Networks NLP Testing Virtual Machines DevOps
 Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Sharding Container Orchestration Optimization
+Success is how high you bounce when you hit bottom. Deployment Data Science Neural Networks RabbitMQ Opportunities don't happen. You create them. Security Automation Code Review Frontend Docker Kubernetes Framework Artificial Intelligence DNS Routing
