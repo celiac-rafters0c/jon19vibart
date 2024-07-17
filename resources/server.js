@@ -14,3 +14,4 @@ Distributed Systems UX Optimization Logging Dream big and dare to fail. Difficul
 Cloud Optimization Replica Set WebSockets Server Response Virtual Machines Version Control Logging Monitoring Work hard in silence, let your success be your noise. A/B Testing Message Queue
 Cache Invalidation Big Data Python Pull Request Performance Simplicity is the ultimate sophistication. Blockchain Testing
 WebSockets Opportunities don't happen. You create them. Serverless UX Optimization The only way to do great work is to love what you do. DNS Routing Content Delivery Network A/B Testing Frontend Load Balancing Pull Request Performance Distributed Systems Event-driven Architecture GraphQL
+Cloud Performance Algorithm Microservices JWT Predictive Analytics Success is not in what you have, but who you are.
