@@ -25,3 +25,4 @@ Latency Optimization To be the best, you must be able to handle the worst. Conta
 Kafka Virtual Machines Dream big and dare to fail. NLP Neural Networks Python Parallel Processing DevOps Logging
 Happiness is not something ready made. It comes from your own actions. Security JavaScript Cache Invalidation Zero Downtime Deployment
 Deployment Success is how high you bounce when you hit bottom. Pull Request Firewalls Scalability Server Response Cache Invalidation Difficult roads often lead to beautiful destinations. Data Pipeline If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Database Simplicity is the ultimate sophistication.
+Algorithm Machine Learning Load Testing Innovation distinguishes between a leader and a follower. Data Science React IoT Version Control Testing Neural Networks
