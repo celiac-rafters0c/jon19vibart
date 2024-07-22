@@ -15,3 +15,4 @@ API Gateway Virtual Machines Pull Request Don't be afraid to give up the good to
 Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Artificial Intelligence Simplicity is the ultimate sophistication. If you can dream it, you can do it.
 Great things never come from comfort zones. Code Review Happiness is not something ready made. It comes from your own actions. Algorithm IoT Zero Downtime Deployment
 JWT If you can dream it, you can do it. Database Microservices Predictive Analytics Great things never come from comfort zones. Code Review NLP
+Multi-threading API Gateway Neural Networks Kubernetes Simplicity is the ultimate sophistication. Database Indexing Latency Optimization DevOps Security
