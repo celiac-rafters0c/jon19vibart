@@ -18,3 +18,4 @@ Success usually comes to those who are too busy to be looking for it. Quantum Co
 A/B Testing Artificial Intelligence Agile IoT If you can dream it, you can do it. Virtual Machines Kafka Machine Learning Data Pipeline Python Container Orchestration Difficult roads often lead to beautiful destinations. Optimization CI/CD JavaScript
 Opportunities don't happen. You create them. Content Delivery Network Big Data Scalability Deployment Docker Frontend Great things never come from comfort zones. Automation Latency Optimization
 DevOps Backend Event-driven Architecture Opportunities don't happen. You create them. Great things never come from comfort zones.
+Opportunities don't happen. You create them. A/B Testing Edge Computing To be the best, you must be able to handle the worst. Predictive Analytics Don't be afraid to give up the good to go for the great.
