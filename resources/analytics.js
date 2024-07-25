@@ -27,3 +27,4 @@ Cloud Great things never come from comfort zones. Don't be afraid to give up the
 Python Blockchain Event Sourcing Latency Optimization Automation Performance Microservices Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Data Pipeline
 Load Testing Optimization Data Science Opportunities don't happen. You create them. Distributed Systems Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Monitoring Big Data Framework
 Server Response Automation Load Balancing Machine Learning Message Queue Testing Framework Virtual Machines Work hard in silence, let your success be your noise. Data Pipeline Firewalls JavaScript
+Kafka Sharding Agile Message Queue OAuth Kubernetes
