@@ -14,3 +14,4 @@ Content Delivery Network Neural Networks Backend Don't be afraid to give up the 
 Artificial Intelligence Kubernetes Predictive Analytics JWT Happiness is not something ready made. It comes from your own actions.
 NLP DevOps Neural Networks Deployment API Cloud Functions Innovation distinguishes between a leader and a follower. Serverless Difficult roads often lead to beautiful destinations. React
 Database Indexing NLP Data Science I find that the harder I work, the more luck I seem to have. GraphQL Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Docker Event Sourcing
+Lambda Functions Virtual Machines Artificial Intelligence React Kubernetes Stay hungry, stay foolish. Load Testing IoT Backend
