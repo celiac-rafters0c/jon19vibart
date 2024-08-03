@@ -15,3 +15,4 @@ Event Sourcing Opportunities don't happen. You create them. Predictive Analytics
 GraphQL Docker Load Testing API Serverless NLP Parallel Processing
 Python Big Data Kafka Database Framework Zero Downtime Deployment Virtual Machines Work hard in silence, let your success be your noise. Pull Request Cloud Functions Optimization
 Version Control Server Response UX Optimization Monitoring Framework Algorithm CI/CD Database Event-driven Architecture Message Queue Success is how high you bounce when you hit bottom. Neural Networks Edge Computing Kafka JWT
+Zero Downtime Deployment DevOps Act as if what you do makes a difference. It does. Deployment Server Response Firewalls Blockchain UX Optimization WebSockets Algorithm Opportunities don't happen. You create them. Security
