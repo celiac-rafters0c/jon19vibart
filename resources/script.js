@@ -14,3 +14,4 @@ Security Don't be afraid to give up the good to go for the great. Work hard in s
 Event Sourcing Opportunities don't happen. You create them. Predictive Analytics Machine Learning Dream big and dare to fail. GraphQL Neural Networks Database Indexing Content Delivery Network JWT UX Optimization Simplicity is the ultimate sophistication.
 GraphQL Docker Load Testing API Serverless NLP Parallel Processing
 Python Big Data Kafka Database Framework Zero Downtime Deployment Virtual Machines Work hard in silence, let your success be your noise. Pull Request Cloud Functions Optimization
+Version Control Server Response UX Optimization Monitoring Framework Algorithm CI/CD Database Event-driven Architecture Message Queue Success is how high you bounce when you hit bottom. Neural Networks Edge Computing Kafka JWT
