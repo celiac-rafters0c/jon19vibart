@@ -22,3 +22,4 @@ Version Control Do what you love and the money will follow. Database Indexing Se
 Work hard in silence, let your success be your noise. Content Delivery Network DevOps Testing Docker
 Quantum Computing Security Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Distributed Systems Blockchain Lambda Functions Logging Containerization Event Sourcing Serverless
 Latency Optimization To be the best, you must be able to handle the worst. Containerization Monitoring Load Testing Cloud JWT Simplicity is the ultimate sophistication. Data Science Framework Opportunities don't happen. You create them. Frontend Performance
+Kafka Virtual Machines Dream big and dare to fail. NLP Neural Networks Python Parallel Processing DevOps Logging
