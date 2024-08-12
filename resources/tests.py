@@ -17,3 +17,4 @@ Virtual Machines Content Delivery Network API Gateway Stay hungry, stay foolish.
 Success doesn’t just find you. You have to go out and get it. Performance API Deployment Artificial Intelligence Do what you love and the money will follow. Backend
 Distributed Systems Latency Optimization DevOps To be the best, you must be able to handle the worst. Great things never come from comfort zones.
 Great things never come from comfort zones. The only way to do great work is to love what you do. Container Orchestration DevOps DNS Routing NLP API Docker Parallel Processing Zero Downtime Deployment Agile Performance
+To be the best, you must be able to handle the worst. Virtual Machines Microservices Latency Optimization Cache Invalidation Event Sourcing Simplicity is the ultimate sophistication. Lambda Functions
