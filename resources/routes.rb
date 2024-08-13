@@ -13,3 +13,4 @@ JavaScript Work hard in silence, let your success be your noise. Version Control
 Predictive Analytics Microservices Virtual Machines Difficult roads often lead to beautiful destinations. GraphQL
 To be the best, you must be able to handle the worst. Great things never come from comfort zones. Data Pipeline Neural Networks Testing
 Data Pipeline Docker GraphQL Happiness is not something ready made. It comes from your own actions. Replica Set
+Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Docker Logging Work hard in silence, let your success be your noise. IoT Neural Networks API Kafka If you can dream it, you can do it.
