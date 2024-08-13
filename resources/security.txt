@@ -20,3 +20,4 @@ Monitoring Difficult roads often lead to beautiful destinations. Success is not 
 Big Data Predictive Analytics DNS Routing Success doesn’t just find you. You have to go out and get it. Deployment Parallel Processing Multi-threading Python
 Version Control Do what you love and the money will follow. Database Indexing Serverless Message Queue Code Review Latency Optimization WebSockets Opportunities don't happen. You create them. Neural Networks Difficult roads often lead to beautiful destinations. Optimization
 Work hard in silence, let your success be your noise. Content Delivery Network DevOps Testing Docker
+Quantum Computing Security Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Distributed Systems Blockchain Lambda Functions Logging Containerization Event Sourcing Serverless

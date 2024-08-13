@@ -15,3 +15,4 @@ NLP Blockchain Cache Invalidation Code Review Virtual Machines Dream big and dar
 Server Response A/B Testing Pull Request NLP Event Sourcing Difficult roads often lead to beautiful destinations. DevOps Event-driven Architecture DNS Routing Quantum Computing Automation Replica Set
 Cache Invalidation Security Work hard in silence, let your success be your noise. Docker Latency Optimization Content Delivery Network Simplicity is the ultimate sophistication. Kafka
 Blockchain Framework Kubernetes RabbitMQ Python Data Science Containerization Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Cache Invalidation Pull Request NLP Firewalls DNS Routing
+Multi-threading Lambda Functions Version Control Predictive Analytics WebSockets UX Optimization Difficult roads often lead to beautiful destinations. Framework React Happiness is not something ready made. It comes from your own actions. Quantum Computing
