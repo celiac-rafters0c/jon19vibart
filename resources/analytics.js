@@ -23,3 +23,4 @@ Algorithm Edge Computing Framework Cloud Logging Stay hungry, stay foolish. Cont
 DevOps Serverless Pull Request Load Balancing Containerization Version Control Do what you love and the money will follow. Database Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.
 Machine Learning NLP Frontend Blockchain Message Queue JWT Lambda Functions Containerization A/B Testing Cache Invalidation JavaScript Backend
 IoT Performance Monitoring Data Science DevOps Success is not in what you have, but who you are. Database Indexing React Python Microservices Kafka Difficult roads often lead to beautiful destinations. WebSockets Virtual Machines Automation
+Cloud Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Data Pipeline IoT JWT Automation Kubernetes Framework GraphQL
