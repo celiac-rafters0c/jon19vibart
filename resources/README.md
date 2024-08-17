@@ -26,3 +26,4 @@ Great things never come from comfort zones. Security WebSockets Success is how h
 Code Review Version Control Cloud Content Delivery Network Python A/B Testing Algorithm Cache Invalidation CI/CD Containerization
 JavaScript Success usually comes to those who are too busy to be looking for it. Virtual Machines Work hard in silence, let your success be your noise. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. CI/CD
 Virtual Machines DNS Routing A/B Testing Quantum Computing Cache Invalidation Event Sourcing The only way to do great work is to love what you do. Performance React Great things never come from comfort zones. Act as if what you do makes a difference. It does. Distributed Systems Kafka I find that the harder I work, the more luck I seem to have. Monitoring
+Work hard in silence, let your success be your noise. Python DNS Routing Firewalls Backend Big Data
