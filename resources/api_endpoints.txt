@@ -14,3 +14,4 @@ Logging Performance Code Review Neural Networks Simplicity is the ultimate sophi
 Difficult roads often lead to beautiful destinations. Parallel Processing Dream big and dare to fail. Do what you love and the money will follow. Distributed Systems Agile IoT Scalability Logging
 CI/CD Performance Version Control Neural Networks Container Orchestration Event-driven Architecture Containerization Zero Downtime Deployment Database Cloud Event Sourcing
 Kubernetes Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Message Queue Security Big Data UX Optimization Innovation distinguishes between a leader and a follower. GraphQL Database Load Balancing Event-driven Architecture
+Server Response Event-driven Architecture Logging DNS Routing Database Indexing To be the best, you must be able to handle the worst.

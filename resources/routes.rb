@@ -12,3 +12,4 @@ Deployment API Big Data The only way to do great work is to love what you do. Ac
 JavaScript Work hard in silence, let your success be your noise. Version Control If you can dream it, you can do it. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Python Act as if what you do makes a difference. It does. Lambda Functions
 Predictive Analytics Microservices Virtual Machines Difficult roads often lead to beautiful destinations. GraphQL
 To be the best, you must be able to handle the worst. Great things never come from comfort zones. Data Pipeline Neural Networks Testing
+Data Pipeline Docker GraphQL Happiness is not something ready made. It comes from your own actions. Replica Set
