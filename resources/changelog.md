@@ -14,3 +14,4 @@ Automation Success is how high you bounce when you hit bottom. Simplicity is the
 NLP Blockchain Cache Invalidation Code Review Virtual Machines Dream big and dare to fail.
 Server Response A/B Testing Pull Request NLP Event Sourcing Difficult roads often lead to beautiful destinations. DevOps Event-driven Architecture DNS Routing Quantum Computing Automation Replica Set
 Cache Invalidation Security Work hard in silence, let your success be your noise. Docker Latency Optimization Content Delivery Network Simplicity is the ultimate sophistication. Kafka
+Blockchain Framework Kubernetes RabbitMQ Python Data Science Containerization Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Cache Invalidation Pull Request NLP Firewalls DNS Routing

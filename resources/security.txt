@@ -17,3 +17,4 @@ Edge Computing Performance Data Science Replica Set Latency Optimization Blockch
 Server Response Happiness is not something ready made. It comes from your own actions. Parallel Processing Big Data Docker Data Pipeline If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Pull Request CI/CD Lambda Functions Database Indexing
 API Pull Request Optimization Load Balancing Cloud Functions Container Orchestration Framework Blockchain
 Monitoring Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Event-driven Architecture Testing Docker Simplicity is the ultimate sophistication. Virtual Machines Algorithm
+Big Data Predictive Analytics DNS Routing Success doesn’t just find you. You have to go out and get it. Deployment Parallel Processing Multi-threading Python
