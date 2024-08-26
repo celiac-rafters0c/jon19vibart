@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Replica Set API Log
 Optimization API Success is how high you bounce when you hit bottom. Security NLP
 Firewalls Stay hungry, stay foolish. Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Data Pipeline Agile Monitoring The only way to do great work is to love what you do. Event Sourcing Blockchain Testing
 Version Control Big Data Framework Monitoring Cache Invalidation Database Indexing Docker React Server Response WebSockets To be the best, you must be able to handle the worst.
+Pull Request Quantum Computing Opportunities don't happen. You create them. Blockchain Lambda Functions Backend JavaScript Code Review Don't be afraid to give up the good to go for the great. Docker RabbitMQ CI/CD Message Queue API

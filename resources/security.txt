@@ -16,3 +16,4 @@ JavaScript Event Sourcing The only way to do great work is to love what you do. 
 Edge Computing Performance Data Science Replica Set Latency Optimization Blockchain Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Lambda Functions Server Response Neural Networks Sharding Container Orchestration
 Server Response Happiness is not something ready made. It comes from your own actions. Parallel Processing Big Data Docker Data Pipeline If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Pull Request CI/CD Lambda Functions Database Indexing
 API Pull Request Optimization Load Balancing Cloud Functions Container Orchestration Framework Blockchain
+Monitoring Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Event-driven Architecture Testing Docker Simplicity is the ultimate sophistication. Virtual Machines Algorithm
