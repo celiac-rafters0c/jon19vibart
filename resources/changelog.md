@@ -13,3 +13,4 @@ Lambda Functions Happiness is not something ready made. It comes from your own a
 Automation Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Zero Downtime Deployment Neural Networks Microservices Python Act as if what you do makes a difference. It does. Server Response Frontend CI/CD Data Science DNS Routing Monitoring
 NLP Blockchain Cache Invalidation Code Review Virtual Machines Dream big and dare to fail.
 Server Response A/B Testing Pull Request NLP Event Sourcing Difficult roads often lead to beautiful destinations. DevOps Event-driven Architecture DNS Routing Quantum Computing Automation Replica Set
+Cache Invalidation Security Work hard in silence, let your success be your noise. Docker Latency Optimization Content Delivery Network Simplicity is the ultimate sophistication. Kafka
