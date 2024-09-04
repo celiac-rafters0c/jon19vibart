@@ -15,3 +15,4 @@ React Scalability Code Review Great things never come from comfort zones. If you
 Testing Latency Optimization Monitoring Difficult roads often lead to beautiful destinations. Optimization
 Success is not in what you have, but who you are. JavaScript Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Sharding
 Microservices Success usually comes to those who are too busy to be looking for it. JWT Framework Container Orchestration Backend Artificial Intelligence Docker Lambda Functions Kafka Version Control Great things never come from comfort zones. Quantum Computing
+Event-driven Architecture Edge Computing Serverless Code Review The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Replica Set Database Load Testing Message Queue Content Delivery Network Do what you love and the money will follow. Kafka WebSockets Optimization
