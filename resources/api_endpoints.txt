@@ -12,3 +12,4 @@ IoT Dream big and dare to fail. Blockchain Big Data DNS Routing Cloud Machine Le
 Machine Learning Server Response Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Cloud Distributed Systems Kafka Act as if what you do makes a difference. It does.
 Logging Performance Code Review Neural Networks Simplicity is the ultimate sophistication. Framework Don't be afraid to give up the good to go for the great.
 Difficult roads often lead to beautiful destinations. Parallel Processing Dream big and dare to fail. Do what you love and the money will follow. Distributed Systems Agile IoT Scalability Logging
+CI/CD Performance Version Control Neural Networks Container Orchestration Event-driven Architecture Containerization Zero Downtime Deployment Database Cloud Event Sourcing

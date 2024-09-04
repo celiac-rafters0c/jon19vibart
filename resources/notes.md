@@ -16,3 +16,4 @@ Docker Success is how high you bounce when you hit bottom. Backend Firewalls Mon
 Content Delivery Network API Optimization If you can dream it, you can do it. Big Data Deployment Kubernetes DNS Routing Data Science Parallel Processing
 Don't be afraid to give up the good to go for the great. Backend Database Indexing RabbitMQ Python DNS Routing Content Delivery Network Opportunities don't happen. You create them. Data Science OAuth Firewalls Cloud Functions
 Version Control Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Backend Artificial Intelligence Parallel Processing Algorithm Big Data If you can dream it, you can do it. Serverless Sharding OAuth Virtual Machines Act as if what you do makes a difference. It does.
+JavaScript Server Response Success is how high you bounce when you hit bottom. Kubernetes Do what you love and the money will follow. API Gateway Distributed Systems Pull Request
