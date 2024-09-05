@@ -14,3 +14,4 @@ RabbitMQ Do what you love and the money will follow. Parallel Processing Load Te
 Deployment Event Sourcing Security Database Indexing Machine Learning
 JWT CI/CD To be the best, you must be able to handle the worst. OAuth Parallel Processing JavaScript Deployment Dream big and dare to fail.
 Virtual Machines Content Delivery Network API Gateway Stay hungry, stay foolish. A/B Testing I find that the harder I work, the more luck I seem to have. Serverless Distributed Systems The only way to do great work is to love what you do. API
+Success doesn’t just find you. You have to go out and get it. Performance API Deployment Artificial Intelligence Do what you love and the money will follow. Backend
