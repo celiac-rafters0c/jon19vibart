@@ -12,3 +12,4 @@ JWT Data Science UX Optimization API Gateway Dream big and dare to fail. Firewal
 CI/CD Version Control Container Orchestration IoT Edge Computing Pull Request Data Pipeline Happiness is not something ready made. It comes from your own actions. WebSockets Multi-threading Content Delivery Network Server Response Containerization API
 Distributed Systems UX Optimization Logging Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. CI/CD
 Cloud Optimization Replica Set WebSockets Server Response Virtual Machines Version Control Logging Monitoring Work hard in silence, let your success be your noise. A/B Testing Message Queue
+Cache Invalidation Big Data Python Pull Request Performance Simplicity is the ultimate sophistication. Blockchain Testing
