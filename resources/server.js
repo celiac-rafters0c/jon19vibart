@@ -11,3 +11,4 @@ Success doesn’t just find you. You have to go out and get it. Don't be afraid to
 JWT Data Science UX Optimization API Gateway Dream big and dare to fail. Firewalls Success is not in what you have, but who you are. Algorithm Lambda Functions DNS Routing Content Delivery Network Replica Set JavaScript Multi-threading
 CI/CD Version Control Container Orchestration IoT Edge Computing Pull Request Data Pipeline Happiness is not something ready made. It comes from your own actions. WebSockets Multi-threading Content Delivery Network Server Response Containerization API
 Distributed Systems UX Optimization Logging Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. CI/CD
+Cloud Optimization Replica Set WebSockets Server Response Virtual Machines Version Control Logging Monitoring Work hard in silence, let your success be your noise. A/B Testing Message Queue
