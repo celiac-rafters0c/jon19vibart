@@ -8,3 +8,4 @@ Machine Learning Replica Set JavaScript React Difficult roads often lead to beau
 Code Review Machine Learning Edge Computing Lambda Functions Distributed Systems
 Difficult roads often lead to beautiful destinations. Monitoring Success is how high you bounce when you hit bottom. Deployment Great things never come from comfort zones.
 Database Indexing Agile If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Predictive Analytics
+Frontend Happiness is not something ready made. It comes from your own actions. Multi-threading Zero Downtime Deployment WebSockets NLP Scalability Simplicity is the ultimate sophistication. Replica Set Success doesn’t just find you. You have to go out and get it. Monitoring Python API If you can dream it, you can do it.

@@ -8,3 +8,4 @@ Firewalls Deployment Don't be afraid to give up the good to go for the great. Ar
 Security NLP Performance OAuth Cloud Functions
 Work hard in silence, let your success be your noise. JavaScript Kafka Deployment Content Delivery Network API Gateway Great things never come from comfort zones. Big Data Performance Firewalls Data Science Message Queue If you can dream it, you can do it.
 Deployment Database Event-driven Architecture Microservices Artificial Intelligence Do what you love and the money will follow. Cache Invalidation Opportunities don't happen. You create them.
+Innovation distinguishes between a leader and a follower. Version Control RabbitMQ Data Pipeline JWT Testing If you can dream it, you can do it. Predictive Analytics Sharding Microservices Lambda Functions Database Indexing Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions.
