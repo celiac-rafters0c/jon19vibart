@@ -11,3 +11,4 @@ If you can dream it, you can do it. Difficult roads often lead to beautiful dest
 IoT Dream big and dare to fail. Blockchain Big Data DNS Routing Cloud Machine Learning Neural Networks Don't be afraid to give up the good to go for the great. Version Control Docker Opportunities don't happen. You create them. Cloud Functions React
 Machine Learning Server Response Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Cloud Distributed Systems Kafka Act as if what you do makes a difference. It does.
 Logging Performance Code Review Neural Networks Simplicity is the ultimate sophistication. Framework Don't be afraid to give up the good to go for the great.
+Difficult roads often lead to beautiful destinations. Parallel Processing Dream big and dare to fail. Do what you love and the money will follow. Distributed Systems Agile IoT Scalability Logging
