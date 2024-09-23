@@ -18,3 +18,4 @@ Lambda Functions NLP JavaScript Algorithm Parallel Processing Event-driven Archi
 Scalability Stay hungry, stay foolish. Version Control Message Queue Happiness is not something ready made. It comes from your own actions. Automation Deployment Database CI/CD
 NLP Replica Set Docker Agile Machine Learning DevOps JWT
 Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Load Testing Event Sourcing Parallel Processing Zero Downtime Deployment JWT Do what you love and the money will follow.
+Kafka Distributed Systems Happiness is not something ready made. It comes from your own actions. Cloud Functions Stay hungry, stay foolish. Load Testing Work hard in silence, let your success be your noise. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. CI/CD Success doesn’t just find you. You have to go out and get it. Automation Firewalls Optimization OAuth

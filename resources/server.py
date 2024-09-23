@@ -17,3 +17,4 @@ Dream big and dare to fail. Testing Docker Logging Data Pipeline Big Data WebSoc
 IoT Success doesn’t just find you. You have to go out and get it. RabbitMQ Testing Database Indexing Firewalls Version Control Kafka
 Logging Event-driven Architecture Cloud Deployment Code Review Kubernetes
 Containerization Cloud Functions API Data Science CI/CD Message Queue Microservices Innovation distinguishes between a leader and a follower. Serverless Automation Simplicity is the ultimate sophistication. Firewalls RabbitMQ Work hard in silence, let your success be your noise.
+Content Delivery Network UX Optimization Load Testing Predictive Analytics Parallel Processing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Distributed Systems Server Response Act as if what you do makes a difference. It does. API Stay hungry, stay foolish. Message Queue Performance
