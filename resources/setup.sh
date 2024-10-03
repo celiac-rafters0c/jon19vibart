@@ -13,3 +13,4 @@ Don't be afraid to give up the good to go for the great. Success is how high you
 Work hard in silence, let your success be your noise. If you can dream it, you can do it. Stay hungry, stay foolish. Artificial Intelligence Monitoring Kafka
 Latency Optimization Scalability Quantum Computing Don't be afraid to give up the good to go for the great. Replica Set Event Sourcing To be the best, you must be able to handle the worst. Containerization Sharding API Frontend
 The only way to do great work is to love what you do. Quantum Computing Server Response Algorithm Data Pipeline OAuth Logging Containerization Act as if what you do makes a difference. It does. CI/CD Edge Computing IoT NLP Pull Request
+Security If you can dream it, you can do it. Firewalls NLP Kubernetes Message Queue Act as if what you do makes a difference. It does. Container Orchestration Quantum Computing

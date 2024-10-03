@@ -16,3 +16,4 @@ Content Delivery Network Docker Event-driven Architecture Frontend Deployment Co
 Dream big and dare to fail. Testing Docker Logging Data Pipeline Big Data WebSockets Success is how high you bounce when you hit bottom. Performance I find that the harder I work, the more luck I seem to have. Scalability Load Testing
 IoT Success doesn’t just find you. You have to go out and get it. RabbitMQ Testing Database Indexing Firewalls Version Control Kafka
 Logging Event-driven Architecture Cloud Deployment Code Review Kubernetes
+Containerization Cloud Functions API Data Science CI/CD Message Queue Microservices Innovation distinguishes between a leader and a follower. Serverless Automation Simplicity is the ultimate sophistication. Firewalls RabbitMQ Work hard in silence, let your success be your noise.
