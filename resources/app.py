@@ -11,3 +11,4 @@ Content Delivery Network Don't be afraid to give up the good to go for the great
 Sharding A/B Testing Neural Networks Blockchain Containerization Multi-threading Monitoring Difficult roads often lead to beautiful destinations. Deployment Distributed Systems Automation
 Automation Database Indexing API Gateway Container Orchestration Code Review The only way to do great work is to love what you do. Monitoring
 Monitoring CI/CD Automation Version Control Data Science Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Edge Computing Predictive Analytics A/B Testing Multi-threading
+Frontend Version Control Message Queue CI/CD Content Delivery Network Kafka Virtual Machines
