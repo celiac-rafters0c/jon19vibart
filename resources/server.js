@@ -10,3 +10,4 @@ Python Load Balancing CI/CD Algorithm Stay hungry, stay foolish. NLP I find that
 Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. JavaScript Database Big Data A/B Testing Code Review Success is not in what you have, but who you are. IoT
 JWT Data Science UX Optimization API Gateway Dream big and dare to fail. Firewalls Success is not in what you have, but who you are. Algorithm Lambda Functions DNS Routing Content Delivery Network Replica Set JavaScript Multi-threading
 CI/CD Version Control Container Orchestration IoT Edge Computing Pull Request Data Pipeline Happiness is not something ready made. It comes from your own actions. WebSockets Multi-threading Content Delivery Network Server Response Containerization API
+Distributed Systems UX Optimization Logging Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. CI/CD
