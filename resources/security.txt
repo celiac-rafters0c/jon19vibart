@@ -12,3 +12,4 @@ Do what you love and the money will follow. Pull Request Security Act as if what
 React Automation Neural Networks Simplicity is the ultimate sophistication. OAuth RabbitMQ API
 Cache Invalidation Pull Request Python Artificial Intelligence Quantum Computing Stay hungry, stay foolish.
 Edge Computing Zero Downtime Deployment If you can dream it, you can do it. Machine Learning Load Testing WebSockets JavaScript Dream big and dare to fail. Server Response Message Queue I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
+JavaScript Event Sourcing The only way to do great work is to love what you do. Algorithm Automation Message Queue Framework Load Testing Docker Optimization Server Response

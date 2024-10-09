@@ -7,3 +7,4 @@ NLP Monitoring Lambda Functions Latency Optimization Multi-threading Message Que
 Firewalls Deployment Don't be afraid to give up the good to go for the great. Artificial Intelligence Message Queue Happiness is not something ready made. It comes from your own actions. Algorithm
 Security NLP Performance OAuth Cloud Functions
 Work hard in silence, let your success be your noise. JavaScript Kafka Deployment Content Delivery Network API Gateway Great things never come from comfort zones. Big Data Performance Firewalls Data Science Message Queue If you can dream it, you can do it.
+Deployment Database Event-driven Architecture Microservices Artificial Intelligence Do what you love and the money will follow. Cache Invalidation Opportunities don't happen. You create them.
