@@ -17,3 +17,4 @@ Success usually comes to those who are too busy to be looking for it. Work hard 
 Lambda Functions NLP JavaScript Algorithm Parallel Processing Event-driven Architecture
 Scalability Stay hungry, stay foolish. Version Control Message Queue Happiness is not something ready made. It comes from your own actions. Automation Deployment Database CI/CD
 NLP Replica Set Docker Agile Machine Learning DevOps JWT
+Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Load Testing Event Sourcing Parallel Processing Zero Downtime Deployment JWT Do what you love and the money will follow.

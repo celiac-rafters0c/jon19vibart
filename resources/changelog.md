@@ -7,3 +7,4 @@ Zero Downtime Deployment If you can dream it, you can do it. Stay hungry, stay f
 Machine Learning Replica Set JavaScript React Difficult roads often lead to beautiful destinations. Predictive Analytics Event Sourcing Data Pipeline Multi-threading Big Data Microservices Firewalls
 Code Review Machine Learning Edge Computing Lambda Functions Distributed Systems
 Difficult roads often lead to beautiful destinations. Monitoring Success is how high you bounce when you hit bottom. Deployment Great things never come from comfort zones.
+Database Indexing Agile If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Predictive Analytics
