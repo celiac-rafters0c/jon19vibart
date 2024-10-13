@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. DNS Routing Work ha
 Cloud Functions Act as if what you do makes a difference. It does. Backend Frontend Pull Request Lambda Functions Blockchain
 Kubernetes Distributed Systems Act as if what you do makes a difference. It does. Multi-threading Success doesn’t just find you. You have to go out and get it. Sharding
 React Scalability Code Review Great things never come from comfort zones. If you can dream it, you can do it. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Monitoring Containerization Kubernetes
+Testing Latency Optimization Monitoring Difficult roads often lead to beautiful destinations. Optimization
