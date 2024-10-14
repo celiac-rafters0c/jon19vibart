@@ -6,3 +6,4 @@ Data Science I find that the harder I work, the more luck I seem to have. Data P
 NLP Monitoring Lambda Functions Latency Optimization Multi-threading Message Queue Machine Learning Server Response Version Control Success is how high you bounce when you hit bottom. Quantum Computing Database Virtual Machines
 Firewalls Deployment Don't be afraid to give up the good to go for the great. Artificial Intelligence Message Queue Happiness is not something ready made. It comes from your own actions. Algorithm
 Security NLP Performance OAuth Cloud Functions
+Work hard in silence, let your success be your noise. JavaScript Kafka Deployment Content Delivery Network API Gateway Great things never come from comfort zones. Big Data Performance Firewalls Data Science Message Queue If you can dream it, you can do it.
