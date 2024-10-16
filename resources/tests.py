@@ -11,3 +11,4 @@ Firewalls Event Sourcing Performance Server Response WebSockets Sharding Cloud F
 Kafka Backend JavaScript Edge Computing Message Queue Innovation distinguishes between a leader and a follower. Logging RabbitMQ
 Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Neural Networks OAuth UX Optimization Testing Python DNS Routing Database Event Sourcing Artificial Intelligence Virtual Machines Lambda Functions
 RabbitMQ Do what you love and the money will follow. Parallel Processing Load Testing API Gateway Predictive Analytics Deployment Python Quantum Computing Version Control Automation
+Deployment Event Sourcing Security Database Indexing Machine Learning
