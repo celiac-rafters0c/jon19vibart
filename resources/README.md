@@ -16,3 +16,4 @@ Innovation distinguishes between a leader and a follower. Neural Networks Python
 Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Python Do what you love and the money will follow. Scalability
 Lambda Functions NLP JavaScript Algorithm Parallel Processing Event-driven Architecture
 Scalability Stay hungry, stay foolish. Version Control Message Queue Happiness is not something ready made. It comes from your own actions. Automation Deployment Database CI/CD
+NLP Replica Set Docker Agile Machine Learning DevOps JWT
