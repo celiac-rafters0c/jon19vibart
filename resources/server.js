@@ -6,3 +6,4 @@ Sharding Pull Request Agile Event Sourcing React Kubernetes Containerization Gre
 Cloud Functions Opportunities don't happen. You create them. Performance Distributed Systems OAuth Load Balancing Edge Computing DNS Routing Virtual Machines To be the best, you must be able to handle the worst.
 API Gateway Logging Event Sourcing Machine Learning Event-driven Architecture Load Testing Artificial Intelligence
 Docker Frontend API Event-driven Architecture Serverless Security Automation Firewalls Do what you love and the money will follow. Database Indexing Multi-threading Content Delivery Network
+Python Load Balancing CI/CD Algorithm Stay hungry, stay foolish. NLP I find that the harder I work, the more luck I seem to have. Docker Distributed Systems Container Orchestration Microservices A/B Testing If you can dream it, you can do it. Agile Multi-threading
