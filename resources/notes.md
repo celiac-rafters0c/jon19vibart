@@ -14,3 +14,4 @@ Database Backend Container Orchestration Event-driven Architecture Kafka
 Backend Work hard in silence, let your success be your noise. Agile Dream big and dare to fail. Success is how high you bounce when you hit bottom. Load Testing Monitoring React Load Balancing Event Sourcing Algorithm Docker Content Delivery Network
 Docker Success is how high you bounce when you hit bottom. Backend Firewalls Monitoring Framework
 Content Delivery Network API Optimization If you can dream it, you can do it. Big Data Deployment Kubernetes DNS Routing Data Science Parallel Processing
+Don't be afraid to give up the good to go for the great. Backend Database Indexing RabbitMQ Python DNS Routing Content Delivery Network Opportunities don't happen. You create them. Data Science OAuth Firewalls Cloud Functions
