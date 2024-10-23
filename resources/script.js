@@ -10,3 +10,4 @@ Quantum Computing I find that the harder I work, the more luck I seem to have. T
 Python Kubernetes Framework Zero Downtime Deployment NLP Scalability Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Neural Networks Containerization Content Delivery Network
 Agile Container Orchestration Kafka Event Sourcing API Gateway Content Delivery Network Distributed Systems Artificial Intelligence Stay hungry, stay foolish. Python Big Data Deployment Success is how high you bounce when you hit bottom.
 Framework Success is how high you bounce when you hit bottom. JWT Version Control Content Delivery Network Multi-threading Replica Set Security
+Security Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Edge Computing Serverless Parallel Processing Dream big and dare to fail. React Do what you love and the money will follow. GraphQL
