@@ -9,3 +9,4 @@ Data Science Act as if what you do makes a difference. It does. Containerization
 Quantum Computing Serverless Big Data Work hard in silence, let your success be your noise. Latency Optimization
 Cloud Latency Optimization Pull Request Distributed Systems Scalability Work hard in silence, let your success be your noise.
 Blockchain Microservices Kafka NLP Logging UX Optimization Lambda Functions Pull Request Success usually comes to those who are too busy to be looking for it. Container Orchestration Docker Data Pipeline Event Sourcing Replica Set Event-driven Architecture
+Container Orchestration Data Science OAuth Database Indexing Testing API Parallel Processing Automation Zero Downtime Deployment Blockchain Message Queue Replica Set Act as if what you do makes a difference. It does. Neural Networks

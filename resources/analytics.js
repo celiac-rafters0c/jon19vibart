@@ -16,3 +16,4 @@ RabbitMQ I find that the harder I work, the more luck I seem to have. Backend Au
 Microservices Testing Zero Downtime Deployment Latency Optimization Blockchain Success is not in what you have, but who you are.
 Innovation distinguishes between a leader and a follower. React Load Testing Scalability RabbitMQ
 Cloud Functions Stay hungry, stay foolish. Virtual Machines Automation IoT Kubernetes Serverless Database Indexing Artificial Intelligence
+Deployment Blockchain Serverless Artificial Intelligence Event Sourcing Cache Invalidation Cloud Functions
