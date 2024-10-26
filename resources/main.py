@@ -8,3 +8,4 @@ IoT Python Containerization Container Orchestration Performance CI/CD
 Data Science Act as if what you do makes a difference. It does. Containerization Load Balancing Cloud Multi-threading Dream big and dare to fail. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Message Queue Optimization Parallel Processing
 Quantum Computing Serverless Big Data Work hard in silence, let your success be your noise. Latency Optimization
 Cloud Latency Optimization Pull Request Distributed Systems Scalability Work hard in silence, let your success be your noise.
+Blockchain Microservices Kafka NLP Logging UX Optimization Lambda Functions Pull Request Success usually comes to those who are too busy to be looking for it. Container Orchestration Docker Data Pipeline Event Sourcing Replica Set Event-driven Architecture

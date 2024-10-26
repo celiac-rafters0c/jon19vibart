@@ -8,3 +8,4 @@ Load Testing API Gateway To be the best, you must be able to handle the worst. A
 NLP JWT If you can dream it, you can do it. Event-driven Architecture Database Indexing Agile Artificial Intelligence Act as if what you do makes a difference. It does. A/B Testing Backend Event Sourcing Security Dream big and dare to fail. Testing
 Success is not in what you have, but who you are. Deployment Automation Python Firewalls NLP
 Neural Networks UX Optimization Replica Set API IoT Message Queue Success is not in what you have, but who you are. Testing Security If you can dream it, you can do it. DNS Routing Algorithm GraphQL Dream big and dare to fail. Success is how high you bounce when you hit bottom.
+Testing CI/CD Containerization Quantum Computing Python Success is not in what you have, but who you are. Neural Networks Don't be afraid to give up the good to go for the great. Multi-threading OAuth Data Science A/B Testing Pull Request
