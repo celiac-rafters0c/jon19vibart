@@ -15,3 +15,4 @@ Dream big and dare to fail. React Agile Testing CI/CD RabbitMQ Multi-threading F
 Content Delivery Network Docker Event-driven Architecture Frontend Deployment Container Orchestration
 Dream big and dare to fail. Testing Docker Logging Data Pipeline Big Data WebSockets Success is how high you bounce when you hit bottom. Performance I find that the harder I work, the more luck I seem to have. Scalability Load Testing
 IoT Success doesn’t just find you. You have to go out and get it. RabbitMQ Testing Database Indexing Firewalls Version Control Kafka
+Logging Event-driven Architecture Cloud Deployment Code Review Kubernetes
