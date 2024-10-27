@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Simplicity is the ultimate s
 RabbitMQ I find that the harder I work, the more luck I seem to have. Backend Automation Cache Invalidation NLP Difficult roads often lead to beautiful destinations. Artificial Intelligence Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. DNS Routing The only way to do great work is to love what you do.
 Microservices Testing Zero Downtime Deployment Latency Optimization Blockchain Success is not in what you have, but who you are.
 Innovation distinguishes between a leader and a follower. React Load Testing Scalability RabbitMQ
+Cloud Functions Stay hungry, stay foolish. Virtual Machines Automation IoT Kubernetes Serverless Database Indexing Artificial Intelligence
