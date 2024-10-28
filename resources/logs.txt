@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Stay hungry, stay fooli
 Load Testing API Gateway To be the best, you must be able to handle the worst. A/B Testing Success usually comes to those who are too busy to be looking for it. Replica Set Neural Networks Performance Containerization Backend
 NLP JWT If you can dream it, you can do it. Event-driven Architecture Database Indexing Agile Artificial Intelligence Act as if what you do makes a difference. It does. A/B Testing Backend Event Sourcing Security Dream big and dare to fail. Testing
 Success is not in what you have, but who you are. Deployment Automation Python Firewalls NLP
+Neural Networks UX Optimization Replica Set API IoT Message Queue Success is not in what you have, but who you are. Testing Security If you can dream it, you can do it. DNS Routing Algorithm GraphQL Dream big and dare to fail. Success is how high you bounce when you hit bottom.
