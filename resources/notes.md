@@ -10,3 +10,4 @@ Edge Computing Code Review Success is how high you bounce when you hit bottom. F
 IoT Cloud JWT Message Queue Do what you love and the money will follow. Data Pipeline
 Kubernetes Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Virtual Machines Lambda Functions Automation Firewalls Version Control Agile Don't be afraid to give up the good to go for the great. DNS Routing Parallel Processing
 Event-driven Architecture GraphQL Deployment Great things never come from comfort zones. Monitoring Dream big and dare to fail. IoT Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. RabbitMQ Artificial Intelligence UX Optimization Load Balancing Zero Downtime Deployment
+Database Backend Container Orchestration Event-driven Architecture Kafka
