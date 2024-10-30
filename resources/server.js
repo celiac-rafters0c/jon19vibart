@@ -5,3 +5,4 @@ Latency Optimization Difficult roads often lead to beautiful destinations. Data 
 Sharding Pull Request Agile Event Sourcing React Kubernetes Containerization Great things never come from comfort zones. Success is not in what you have, but who you are.
 Cloud Functions Opportunities don't happen. You create them. Performance Distributed Systems OAuth Load Balancing Edge Computing DNS Routing Virtual Machines To be the best, you must be able to handle the worst.
 API Gateway Logging Event Sourcing Machine Learning Event-driven Architecture Load Testing Artificial Intelligence
+Docker Frontend API Event-driven Architecture Serverless Security Automation Firewalls Do what you love and the money will follow. Database Indexing Multi-threading Content Delivery Network
