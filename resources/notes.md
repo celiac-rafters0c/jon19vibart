@@ -8,3 +8,4 @@ Big Data Kafka Great things never come from comfort zones. Replica Set Server Re
 JWT Parallel Processing Code Review To be the best, you must be able to handle the worst. WebSockets Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Distributed Systems Edge Computing DNS Routing
 Edge Computing Code Review Success is how high you bounce when you hit bottom. Framework Don't be afraid to give up the good to go for the great. React Frontend CI/CD Blockchain Dream big and dare to fail.
 IoT Cloud JWT Message Queue Do what you love and the money will follow. Data Pipeline
+Kubernetes Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Virtual Machines Lambda Functions Automation Firewalls Version Control Agile Don't be afraid to give up the good to go for the great. DNS Routing Parallel Processing
