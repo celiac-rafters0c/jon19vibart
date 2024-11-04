@@ -5,3 +5,4 @@ Zero Downtime Deployment Neural Networks Container Orchestration Success is not 
 If you can dream it, you can do it. JWT Lambda Functions WebSockets Success is how high you bounce when you hit bottom. Logging Version Control Message Queue Deployment NLP
 Dream big and dare to fail. Great things never come from comfort zones. Distributed Systems Automation Kubernetes Virtual Machines API Backend Frontend Version Control Machine Learning React Container Orchestration Firewalls
 RabbitMQ Edge Computing Server Response Scalability Data Science
+Load Balancing Multi-threading Blockchain JavaScript Agile Event-driven Architecture Virtual Machines Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Containerization To be the best, you must be able to handle the worst. Event Sourcing
