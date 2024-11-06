@@ -13,3 +13,4 @@ Deployment Do what you love and the money will follow. Pull Request Scalability 
 Do what you love and the money will follow. Parallel Processing Logging Quantum Computing Firewalls
 Dream big and dare to fail. React Agile Testing CI/CD RabbitMQ Multi-threading Firewalls Don't be afraid to give up the good to go for the great. Optimization Difficult roads often lead to beautiful destinations. Security
 Content Delivery Network Docker Event-driven Architecture Frontend Deployment Container Orchestration
+Dream big and dare to fail. Testing Docker Logging Data Pipeline Big Data WebSockets Success is how high you bounce when you hit bottom. Performance I find that the harder I work, the more luck I seem to have. Scalability Load Testing

@@ -9,3 +9,4 @@ Load Testing Do what you love and the money will follow. Blockchain API Gateway 
 Dream big and dare to fail. Pull Request Cache Invalidation Success doesn’t just find you. You have to go out and get it. UX Optimization Sharding Distributed Systems Framework Opportunities don't happen. You create them. Data Science Stay hungry, stay foolish. Load Testing Kubernetes Message Queue
 Cloud Functions DevOps Containerization Pull Request Success doesn’t just find you. You have to go out and get it. Backend
 Do what you love and the money will follow. Pull Request Security Act as if what you do makes a difference. It does. A/B Testing API Gateway
+React Automation Neural Networks Simplicity is the ultimate sophistication. OAuth RabbitMQ API
