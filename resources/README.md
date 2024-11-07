@@ -14,3 +14,4 @@ Load Balancing Success is not in what you have, but who you are. DNS Routing Mes
 Stay hungry, stay foolish. Message Queue Work hard in silence, let your success be your noise. Great things never come from comfort zones. Blockchain Monitoring
 Innovation distinguishes between a leader and a follower. Neural Networks Python Replica Set CI/CD Latency Optimization The only way to do great work is to love what you do.
 Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Python Do what you love and the money will follow. Scalability
+Lambda Functions NLP JavaScript Algorithm Parallel Processing Event-driven Architecture

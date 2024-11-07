@@ -9,3 +9,4 @@ Python OAuth Testing API Gateway I find that the harder I work, the more luck I 
 Microservices Quantum Computing Event-driven Architecture Cache Invalidation DNS Routing Lambda Functions Firewalls Dream big and dare to fail. Data Pipeline
 Firewalls Event Sourcing Performance Server Response WebSockets Sharding Cloud Functions Lambda Functions Opportunities don't happen. You create them.
 Kafka Backend JavaScript Edge Computing Message Queue Innovation distinguishes between a leader and a follower. Logging RabbitMQ
+Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Neural Networks OAuth UX Optimization Testing Python DNS Routing Database Event Sourcing Artificial Intelligence Virtual Machines Lambda Functions
