@@ -8,3 +8,4 @@ Neural Networks Firewalls Scalability Kafka CI/CD Latency Optimization Version C
 Python OAuth Testing API Gateway I find that the harder I work, the more luck I seem to have. Algorithm Microservices Cloud JWT Don't be afraid to give up the good to go for the great. RabbitMQ Docker Replica Set Edge Computing
 Microservices Quantum Computing Event-driven Architecture Cache Invalidation DNS Routing Lambda Functions Firewalls Dream big and dare to fail. Data Pipeline
 Firewalls Event Sourcing Performance Server Response WebSockets Sharding Cloud Functions Lambda Functions Opportunities don't happen. You create them.
+Kafka Backend JavaScript Edge Computing Message Queue Innovation distinguishes between a leader and a follower. Logging RabbitMQ
