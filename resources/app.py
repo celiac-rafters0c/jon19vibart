@@ -7,3 +7,4 @@ Cloud Functions Backend Edge Computing Big Data Opportunities don't happen. You 
 Security DNS Routing Parallel Processing Virtual Machines The only way to do great work is to love what you do. Monitoring IoT
 Artificial Intelligence Frontend Scalability Quantum Computing Framework Stay hungry, stay foolish. The only way to do great work is to love what you do. Agile
 Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Scalability Version Control Pull Request Database Python Do what you love and the money will follow. Performance Server Response Machine Learning Act as if what you do makes a difference. It does.
+Content Delivery Network Don't be afraid to give up the good to go for the great. Quantum Computing React Latency Optimization Cloud Functions Simplicity is the ultimate sophistication.
