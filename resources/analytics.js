@@ -10,3 +10,4 @@ Predictive Analytics Event-driven Architecture Multi-threading Innovation distin
 Artificial Intelligence Database Message Queue Difficult roads often lead to beautiful destinations. Deployment Container Orchestration Firewalls Cloud Functions Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Code Review DevOps Algorithm
 A/B Testing Agile DevOps Kafka Message Queue API Code Review The only way to do great work is to love what you do. Success is not in what you have, but who you are. JWT Work hard in silence, let your success be your noise. Monitoring OAuth Cloud Version Control
 Zero Downtime Deployment WebSockets React Load Balancing The only way to do great work is to love what you do. Monitoring Predictive Analytics Great things never come from comfort zones. Quantum Computing Docker
+Containerization Load Balancing Firewalls Success is how high you bounce when you hit bottom. Agile Microservices Replica Set
