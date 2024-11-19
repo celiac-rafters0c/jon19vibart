@@ -11,3 +11,4 @@ Microservices Cloud Functions Success usually comes to those who are too busy to
 Algorithm Innovation distinguishes between a leader and a follower. Container Orchestration Don't be afraid to give up the good to go for the great. Content Delivery Network Virtual Machines Server Response Load Testing Latency Optimization Big Data Kubernetes Version Control Distributed Systems Dream big and dare to fail. DevOps
 Deployment Do what you love and the money will follow. Pull Request Scalability Testing Logging I find that the harder I work, the more luck I seem to have.
 Do what you love and the money will follow. Parallel Processing Logging Quantum Computing Firewalls
+Dream big and dare to fail. React Agile Testing CI/CD RabbitMQ Multi-threading Firewalls Don't be afraid to give up the good to go for the great. Optimization Difficult roads often lead to beautiful destinations. Security
