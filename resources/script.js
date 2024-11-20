@@ -9,3 +9,4 @@ Database Cloud Functions If you can dream it, you can do it. Deployment JavaScri
 Quantum Computing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Load Testing Message Queue Optimization
 Python Kubernetes Framework Zero Downtime Deployment NLP Scalability Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Neural Networks Containerization Content Delivery Network
 Agile Container Orchestration Kafka Event Sourcing API Gateway Content Delivery Network Distributed Systems Artificial Intelligence Stay hungry, stay foolish. Python Big Data Deployment Success is how high you bounce when you hit bottom.
+Framework Success is how high you bounce when you hit bottom. JWT Version Control Content Delivery Network Multi-threading Replica Set Security

@@ -6,3 +6,4 @@ Version Control RabbitMQ A/B Testing Cache Invalidation Algorithm Event Sourcing
 Cloud Functions Backend Edge Computing Big Data Opportunities don't happen. You create them.
 Security DNS Routing Parallel Processing Virtual Machines The only way to do great work is to love what you do. Monitoring IoT
 Artificial Intelligence Frontend Scalability Quantum Computing Framework Stay hungry, stay foolish. The only way to do great work is to love what you do. Agile
+Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Scalability Version Control Pull Request Database Python Do what you love and the money will follow. Performance Server Response Machine Learning Act as if what you do makes a difference. It does.
