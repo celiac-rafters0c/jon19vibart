@@ -6,3 +6,4 @@ GraphQL NLP Algorithm Innovation distinguishes between a leader and a follower. 
 CI/CD Containerization Zero Downtime Deployment Testing Kubernetes Algorithm Big Data Success doesn’t just find you. You have to go out and get it. Content Delivery Network Multi-threading UX Optimization Database Load Testing Do what you love and the money will follow. Neural Networks
 IoT Python Containerization Container Orchestration Performance CI/CD
 Data Science Act as if what you do makes a difference. It does. Containerization Load Balancing Cloud Multi-threading Dream big and dare to fail. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Message Queue Optimization Parallel Processing
+Quantum Computing Serverless Big Data Work hard in silence, let your success be your noise. Latency Optimization
