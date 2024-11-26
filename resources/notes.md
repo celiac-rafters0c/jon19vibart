@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Kafka Big Data Virt
 Big Data Kafka Great things never come from comfort zones. Replica Set Server Response Stay hungry, stay foolish. Cache Invalidation RabbitMQ Act as if what you do makes a difference. It does. Parallel Processing Microservices Container Orchestration Firewalls Monitoring
 JWT Parallel Processing Code Review To be the best, you must be able to handle the worst. WebSockets Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Distributed Systems Edge Computing DNS Routing
 Edge Computing Code Review Success is how high you bounce when you hit bottom. Framework Don't be afraid to give up the good to go for the great. React Frontend CI/CD Blockchain Dream big and dare to fail.
+IoT Cloud JWT Message Queue Do what you love and the money will follow. Data Pipeline
