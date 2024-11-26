@@ -5,3 +5,4 @@ Great things never come from comfort zones. Load Testing Automation If you can d
 Version Control RabbitMQ A/B Testing Cache Invalidation Algorithm Event Sourcing Docker Success usually comes to those who are too busy to be looking for it. Security UX Optimization WebSockets Success is how high you bounce when you hit bottom. Data Pipeline
 Cloud Functions Backend Edge Computing Big Data Opportunities don't happen. You create them.
 Security DNS Routing Parallel Processing Virtual Machines The only way to do great work is to love what you do. Monitoring IoT
+Artificial Intelligence Frontend Scalability Quantum Computing Framework Stay hungry, stay foolish. The only way to do great work is to love what you do. Agile
