@@ -7,3 +7,4 @@ Frontend Opportunities don't happen. You create them. IoT Virtual Machines Monit
 Replica Set Edge Computing Predictive Analytics NLP Monitoring Data Pipeline Optimization Algorithm Innovation distinguishes between a leader and a follower. Multi-threading IoT Code Review Neural Networks Automation
 Database Cloud Functions If you can dream it, you can do it. Deployment JavaScript Serverless
 Quantum Computing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Load Testing Message Queue Optimization
+Python Kubernetes Framework Zero Downtime Deployment NLP Scalability Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Neural Networks Containerization Content Delivery Network
