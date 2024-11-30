@@ -1,2 +1,3 @@
 RabbitMQ API Gateway React Event Sourcing Multi-threading Don't be afraid to give up the good to go for the great. Neural Networks Lambda Functions Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Algorithm Cloud Functions Containerization IoT
+Work hard in silence, let your success be your noise. Docker Replica Set Virtual Machines If you can dream it, you can do it. Version Control Firewalls API Gateway Success is not in what you have, but who you are. React Logging Edge Computing
