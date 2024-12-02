@@ -9,3 +9,4 @@ Version Control Machine Learning Artificial Intelligence Difficult roads often l
 API Gateway Big Data Content Delivery Network Testing Database Indexing Difficult roads often lead to beautiful destinations. Serverless Framework Data Science Performance
 Artificial Intelligence Cache Invalidation Microservices Data Science Optimization Success is how high you bounce when you hit bottom. JWT Success is not in what you have, but who you are. Database
 I find that the harder I work, the more luck I seem to have. DNS Routing Work hard in silence, let your success be your noise. Kubernetes React UX Optimization Neural Networks Monitoring Success usually comes to those who are too busy to be looking for it. API Docker
+Cloud Functions Act as if what you do makes a difference. It does. Backend Frontend Pull Request Lambda Functions Blockchain
