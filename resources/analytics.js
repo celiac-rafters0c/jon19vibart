@@ -6,3 +6,4 @@ Do what you love and the money will follow. Don't be afraid to give up the good 
 Success usually comes to those who are too busy to be looking for it. Deployment Kubernetes Dream big and dare to fail. Frontend DevOps Do what you love and the money will follow. Backend JavaScript Edge Computing
 Edge Computing Performance Great things never come from comfort zones. API Cache Invalidation Dream big and dare to fail.
 Version Control Distributed Systems Python Scalability Kubernetes Virtual Machines Logging Success is not in what you have, but who you are. Big Data DNS Routing
+Predictive Analytics Event-driven Architecture Multi-threading Innovation distinguishes between a leader and a follower. JavaScript Framework Database Indexing NLP Dream big and dare to fail. CI/CD The only way to do great work is to love what you do. Firewalls Server Response Database
