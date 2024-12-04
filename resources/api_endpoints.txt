@@ -6,3 +6,4 @@ GraphQL Machine Learning Content Delivery Network Message Queue Security Zero Do
 RabbitMQ Virtual Machines If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Agile
 Containerization Distributed Systems Data Science Version Control Don't be afraid to give up the good to go for the great. Lambda Functions UX Optimization Database Indexing Framework Container Orchestration
 Server Response Algorithm Agile Stay hungry, stay foolish. Artificial Intelligence JWT Work hard in silence, let your success be your noise.
+Load Testing JWT Load Balancing Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. NLP Database Simplicity is the ultimate sophistication. Edge Computing Difficult roads often lead to beautiful destinations. Backend Opportunities don't happen. You create them. Framework
