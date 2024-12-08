@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. GraphQL Big Data Success usual
 Latency Optimization Difficult roads often lead to beautiful destinations. Data Pipeline NLP The only way to do great work is to love what you do. Content Delivery Network Kafka Opportunities don't happen. You create them. DevOps OAuth Success doesn’t just find you. You have to go out and get it. Database CI/CD JavaScript Frontend
 Sharding Pull Request Agile Event Sourcing React Kubernetes Containerization Great things never come from comfort zones. Success is not in what you have, but who you are.
 Cloud Functions Opportunities don't happen. You create them. Performance Distributed Systems OAuth Load Balancing Edge Computing DNS Routing Virtual Machines To be the best, you must be able to handle the worst.
+API Gateway Logging Event Sourcing Machine Learning Event-driven Architecture Load Testing Artificial Intelligence
