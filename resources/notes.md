@@ -5,3 +5,4 @@ Work hard in silence, let your success be your noise. Innovation distinguishes b
 API Cloud Functions Deployment Optimization IoT OAuth Container Orchestration Database Predictive Analytics Microservices Edge Computing Latency Optimization
 I find that the harder I work, the more luck I seem to have. Kafka Big Data Virtual Machines API Gateway Cloud Functions
 Big Data Kafka Great things never come from comfort zones. Replica Set Server Response Stay hungry, stay foolish. Cache Invalidation RabbitMQ Act as if what you do makes a difference. It does. Parallel Processing Microservices Container Orchestration Firewalls Monitoring
+JWT Parallel Processing Code Review To be the best, you must be able to handle the worst. WebSockets Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Distributed Systems Edge Computing DNS Routing
