@@ -4,3 +4,4 @@ Event Sourcing Server Response Testing Quantum Computing To be the best, you mus
 Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Automation Big Data Frontend OAuth Dream big and dare to fail. Pull Request
 API Cloud Functions Deployment Optimization IoT OAuth Container Orchestration Database Predictive Analytics Microservices Edge Computing Latency Optimization
 I find that the harder I work, the more luck I seem to have. Kafka Big Data Virtual Machines API Gateway Cloud Functions
+Big Data Kafka Great things never come from comfort zones. Replica Set Server Response Stay hungry, stay foolish. Cache Invalidation RabbitMQ Act as if what you do makes a difference. It does. Parallel Processing Microservices Container Orchestration Firewalls Monitoring
