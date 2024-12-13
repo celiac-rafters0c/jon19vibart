@@ -5,3 +5,4 @@ Cloud Functions Pull Request RabbitMQ Success is not in what you have, but who y
 Container Orchestration Agile Code Review The only way to do great work is to love what you do. Kubernetes Quantum Computing JWT JavaScript WebSockets Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Microservices Backend
 Frontend Opportunities don't happen. You create them. IoT Virtual Machines Monitoring To be the best, you must be able to handle the worst. JWT Message Queue Database Indexing Replica Set Latency Optimization Neural Networks Do what you love and the money will follow.
 Replica Set Edge Computing Predictive Analytics NLP Monitoring Data Pipeline Optimization Algorithm Innovation distinguishes between a leader and a follower. Multi-threading IoT Code Review Neural Networks Automation
+Database Cloud Functions If you can dream it, you can do it. Deployment JavaScript Serverless
