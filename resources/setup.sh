@@ -7,3 +7,4 @@ Automation Data Pipeline Python Replica Set A/B Testing Optimization Framework I
 Success is how high you bounce when you hit bottom. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Edge Computing Opportunities don't happen. You create them. Virtual Machines Load Testing JWT Python
 Zero Downtime Deployment Monitoring Containerization Load Balancing Innovation distinguishes between a leader and a follower. Kafka Backend Distributed Systems JavaScript WebSockets Database React
 Testing Scalability Latency Optimization Message Queue Dream big and dare to fail. UX Optimization API Gateway Backend A/B Testing Frontend Security Event-driven Architecture Success is how high you bounce when you hit bottom. Lambda Functions Quantum Computing
+Cloud Functions Event-driven Architecture OAuth Content Delivery Network React Success is how high you bounce when you hit bottom. Parallel Processing Load Balancing
