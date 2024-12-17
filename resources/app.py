@@ -3,3 +3,4 @@ Backend Predictive Analytics Act as if what you do makes a difference. It does. 
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. DevOps Cache Invalidation
 Great things never come from comfort zones. Load Testing Automation If you can dream it, you can do it. Act as if what you do makes a difference. It does. DevOps Lambda Functions Artificial Intelligence Event-driven Architecture Server Response
 Version Control RabbitMQ A/B Testing Cache Invalidation Algorithm Event Sourcing Docker Success usually comes to those who are too busy to be looking for it. Security UX Optimization WebSockets Success is how high you bounce when you hit bottom. Data Pipeline
+Cloud Functions Backend Edge Computing Big Data Opportunities don't happen. You create them.
