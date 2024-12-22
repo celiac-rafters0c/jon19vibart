@@ -1,1 +1,2 @@
 Backend JWT RabbitMQ Dream big and dare to fail. Do what you love and the money will follow.
+Framework Latency Optimization Performance Microservices Testing Difficult roads often lead to beautiful destinations. WebSockets Event Sourcing Work hard in silence, let your success be your noise. Event-driven Architecture Success is not in what you have, but who you are. DNS Routing
