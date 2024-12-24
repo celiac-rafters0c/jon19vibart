@@ -6,3 +6,4 @@ WebSockets Neural Networks Microservices Optimization Data Pipeline Distributed 
 Serverless Firewalls Scalability Pull Request Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Replica Set Do what you love and the money will follow. Big Data Monitoring Blockchain
 To be the best, you must be able to handle the worst. Data Pipeline Security Kubernetes Stay hungry, stay foolish.
 Version Control Machine Learning Artificial Intelligence Difficult roads often lead to beautiful destinations. Data Science Dream big and dare to fail. Framework JavaScript Sharding Event Sourcing Cache Invalidation Replica Set Content Delivery Network
+API Gateway Big Data Content Delivery Network Testing Database Indexing Difficult roads often lead to beautiful destinations. Serverless Framework Data Science Performance
