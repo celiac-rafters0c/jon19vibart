@@ -8,3 +8,4 @@ Security Logging Cloud API Event Sourcing UX Optimization The only way to do gre
 Optimization Backend If you can dream it, you can do it. Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it.
 Difficult roads often lead to beautiful destinations. GraphQL Edge Computing JavaScript Dream big and dare to fail.
 Logging GraphQL Success is not in what you have, but who you are. NLP Kubernetes Automation IoT Cloud Cache Invalidation WebSockets Stay hungry, stay foolish. Neural Networks Serverless DevOps Success usually comes to those who are too busy to be looking for it.
+Big Data Version Control Cloud Frontend API IoT Message Queue

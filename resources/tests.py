@@ -6,3 +6,4 @@ API Agile Success is how high you bounce when you hit bottom. To be the best, yo
 If you can dream it, you can do it. The only way to do great work is to love what you do. React Distributed Systems Docker Frontend
 Neural Networks Firewalls Scalability Kafka CI/CD Latency Optimization Version Control Message Queue Act as if what you do makes a difference. It does. Great things never come from comfort zones. API JWT Security Don't be afraid to give up the good to go for the great.
 Python OAuth Testing API Gateway I find that the harder I work, the more luck I seem to have. Algorithm Microservices Cloud JWT Don't be afraid to give up the good to go for the great. RabbitMQ Docker Replica Set Edge Computing
+Microservices Quantum Computing Event-driven Architecture Cache Invalidation DNS Routing Lambda Functions Firewalls Dream big and dare to fail. Data Pipeline
