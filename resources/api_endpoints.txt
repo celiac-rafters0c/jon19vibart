@@ -3,3 +3,4 @@ Latency Optimization Deployment Cloud Event Sourcing Data Pipeline Machine Learn
 API Gateway OAuth RabbitMQ Content Delivery Network Simplicity is the ultimate sophistication. Great things never come from comfort zones. DevOps Kubernetes Event Sourcing Virtual Machines
 JWT Lambda Functions The only way to do great work is to love what you do. Parallel Processing Firewalls
 GraphQL Machine Learning Content Delivery Network Message Queue Security Zero Downtime Deployment Container Orchestration OAuth DevOps Event Sourcing
+RabbitMQ Virtual Machines If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Agile
