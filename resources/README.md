@@ -7,3 +7,4 @@ Algorithm I find that the harder I work, the more luck I seem to have. The only 
 Security Logging Cloud API Event Sourcing UX Optimization The only way to do great work is to love what you do. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Multi-threading Microservices
 Optimization Backend If you can dream it, you can do it. Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it.
 Difficult roads often lead to beautiful destinations. GraphQL Edge Computing JavaScript Dream big and dare to fail.
+Logging GraphQL Success is not in what you have, but who you are. NLP Kubernetes Automation IoT Cloud Cache Invalidation WebSockets Stay hungry, stay foolish. Neural Networks Serverless DevOps Success usually comes to those who are too busy to be looking for it.
