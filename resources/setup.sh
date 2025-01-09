@@ -4,3 +4,4 @@ Data Pipeline Cloud Functions To be the best, you must be able to handle the wor
 Testing Predictive Analytics Server Response OAuth Success doesn’t just find you. You have to go out and get it. Optimization
 Pull Request Big Data React Monitoring Work hard in silence, let your success be your noise. DNS Routing NLP Edge Computing Framework
 Automation Data Pipeline Python Replica Set A/B Testing Optimization Framework IoT Load Balancing Data Science Neural Networks Container Orchestration Security
+Success is how high you bounce when you hit bottom. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Edge Computing Opportunities don't happen. You create them. Virtual Machines Load Testing JWT Python
