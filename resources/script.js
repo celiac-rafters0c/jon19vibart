@@ -1,2 +1,3 @@
 WebSockets Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Predictive Analytics Container Orchestration Message Queue
 Performance OAuth I find that the harder I work, the more luck I seem to have. Monitoring A/B Testing Version Control Load Testing Predictive Analytics Database To be the best, you must be able to handle the worst. Do what you love and the money will follow.
+Success is how high you bounce when you hit bottom. Backend Algorithm Deployment Act as if what you do makes a difference. It does. Multi-threading Stay hungry, stay foolish. Automation Kafka
