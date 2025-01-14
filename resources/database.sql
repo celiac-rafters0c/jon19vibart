@@ -4,3 +4,4 @@ Innovation distinguishes between a leader and a follower. API Artificial Intelli
 Sharding Success usually comes to those who are too busy to be looking for it. Python Load Balancing Load Testing Distributed Systems Multi-threading
 WebSockets Neural Networks Microservices Optimization Data Pipeline Distributed Systems Success usually comes to those who are too busy to be looking for it. Backend CI/CD Containerization Artificial Intelligence API Work hard in silence, let your success be your noise. If you can dream it, you can do it. Quantum Computing
 Serverless Firewalls Scalability Pull Request Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Replica Set Do what you love and the money will follow. Big Data Monitoring Blockchain
+To be the best, you must be able to handle the worst. Data Pipeline Security Kubernetes Stay hungry, stay foolish.
