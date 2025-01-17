@@ -1,2 +1,3 @@
 IoT Neural Networks If you can dream it, you can do it. Database Indexing Lambda Functions Serverless Don't be afraid to give up the good to go for the great. Python Act as if what you do makes a difference. It does. Server Response API Gateway Do what you love and the money will follow. Frontend
 Content Delivery Network Lambda Functions Neural Networks Load Balancing Opportunities don't happen. You create them. Database Stay hungry, stay foolish. Kafka OAuth API Gateway
+Replica Set JavaScript Content Delivery Network Algorithm Success is how high you bounce when you hit bottom. OAuth Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Kafka Lambda Functions Monitoring
