@@ -1,1 +1,2 @@
 Success is how high you bounce when you hit bottom. Neural Networks Lambda Functions Containerization Event Sourcing Act as if what you do makes a difference. It does. NLP Logging WebSockets Difficult roads often lead to beautiful destinations. Multi-threading
+Latency Optimization Deployment Cloud Event Sourcing Data Pipeline Machine Learning UX Optimization Parallel Processing API Gateway
