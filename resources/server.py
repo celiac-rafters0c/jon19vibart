@@ -1,2 +1,3 @@
 Database Optimization Distributed Systems Quantum Computing WebSockets Happiness is not something ready made. It comes from your own actions. Content Delivery Network
 NLP RabbitMQ Multi-threading A/B Testing Agile Success doesn’t just find you. You have to go out and get it. JWT DNS Routing Dream big and dare to fail. Simplicity is the ultimate sophistication. Data Pipeline Quantum Computing
+Great things never come from comfort zones. Frontend Difficult roads often lead to beautiful destinations. OAuth To be the best, you must be able to handle the worst. CI/CD Artificial Intelligence Blockchain
