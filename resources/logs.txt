@@ -1,1 +1,2 @@
 Big Data Performance JWT JavaScript Monitoring Stay hungry, stay foolish. UX Optimization Simplicity is the ultimate sophistication. Agile IoT Replica Set Cache Invalidation DNS Routing Firewalls
+Kubernetes WebSockets Stay hungry, stay foolish. JWT Database Indexing If you can dream it, you can do it. Frontend Security Code Review CI/CD Framework I find that the harder I work, the more luck I seem to have.
